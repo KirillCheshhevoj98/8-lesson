@@ -1,0 +1,165 @@
+.line {
+	background: #f6f9f9;
+	height: 130px;
+}
+
+body
+{
+	margin: 0px;
+	font-family: 'Lato', sans-serif;
+}
+
+.content
+{
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.logo {
+	padding-top: 30px;
+}
+
+.head {
+	background: url(../image/bg.png) center center no-repeat;
+	height: 800px;
+	background-size: cover;
+}
+
+h1 {
+	text-align: center;
+	font-size: 90px;
+	margin: 0px;
+	padding-top: 200px;
+	color: white;
+}
+
+.hr {
+	width: 600px;
+	height: 2px;
+	background: #15a4fa;
+	margin: 10px auto;
+}
+
+.white {
+	color: white;
+}
+
+.p20 {
+	font-size: 18px;
+}
+
+.my_button {
+	padding: 20px 30px;
+	border-radius: 4px;
+	color: white;
+	background: #15a4fa;
+	border: none;
+	font-size: 18px;
+	cursor: pointer;
+}
+
+.my_button:hover{
+	box-shadow: 0px 0px 3px 3px rgba(255, 255, 255, 0.3);
+}
+
+.spd {
+	height: 170px;
+	padding: 80px 0px;
+	background: #f6f9f9;
+	text-align: center;
+}
+
+h2 {
+	margin: 0px;
+	font-size: 40px;
+	color: #2d3950;
+}
+
+p {
+	font-size: 15px;
+	color: #999999;
+}
+
+.ic {
+    float: left;
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 70px;
+    margin-left: 300px;
+}
+
+.menu {
+	background: #ffffff;
+	height: 400px;
+}
+
+.text {
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+	font-size: 22px;
+}
+
+.text1 {
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+}
+
+.icon {
+	background: #f6f9f9;
+	height: 900px;
+}
+
+.icon1 {
+	display: block;
+	margin: 0 auto;
+}
+
+h3{
+	padding-top: 80px;
+	font-size: 41px;
+	font-family: 'Lato', sans-serif;
+}
+
+.contact {
+	padding-top: 30px;
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+}
+
+.ic1 {
+	float: left;
+}
+
+.feat {
+	padding: 80px 0px;
+	height: 260px;
+}
+.box {
+	width: 263px;
+	float: left;
+	height: 260px;
+	margin: 0 35px;
+	text-align: center;
+}
+
+h4 {
+	margin: 0px;
+	font-size: 22px;
+	color: #2d3950;
+}
+
+.galery {
+	height: 640px;
+	background: #f6f9f9;
+	padding: 80px 0px;
+}
+
+.gal_img {
+	width: 310px;
+	margin-bottom: 30px;
+}
+
+.m30 {
+	margin-right: 30px;
+}
